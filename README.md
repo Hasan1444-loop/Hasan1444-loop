@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbook-cartoon&psig=AOvVaw1sIaNwRbZS3y5s6oQOFggD&ust=1716026090394000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDb2s21lIYDFQAAAAAdAAAAABAE)
+
 <h1 align="center">Hi 👋, I'm Hasan1444-loop</h1>
 <h3 align="center">A passionate student developer from Turkey</h3>
 
